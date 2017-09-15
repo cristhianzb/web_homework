@@ -1,1 +1,0 @@
-this work is of Cristhian Zenteno and Maykol
