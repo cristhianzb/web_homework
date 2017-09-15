@@ -1,4 +1,2 @@
-*.mp4
-*.ogg
-*.jpg
-*.png
+pagina/images/**
+pagina/videos/**
