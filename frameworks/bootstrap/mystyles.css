@@ -1,0 +1,17 @@
+body{
+    color:white;
+}
+
+.navbar{
+    border-radius:5px;
+}
+
+
+
+
+#content{
+    height:450px;
+    position:relative;    
+    transform:translate(0%,45%);
+}
+
