@@ -1,2 +1,6 @@
 pagina/images/**
 pagina/videos/**
+frameworks/bootstrap/css/**
+frameworks/bootstrap/fonts/**
+frameworks/bootstrap/js/**
+frameworks/bootstrap/resources/**
