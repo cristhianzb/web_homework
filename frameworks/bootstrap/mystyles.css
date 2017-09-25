@@ -9,10 +9,19 @@ body{
     border-radius:5px;
 }
 
-#quickAccess{
+#quickAccess a:link {
     background-color:black;
-    
+    color:white;
+    word-spacing:1.5cm;
 }
+
+#quickAccess a:visited {
+    background-color:black;
+    color:white;
+    word-spacing:1.5cm;
+}
+
+
 
 #content{
     height:450px;
