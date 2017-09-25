@@ -1,17 +1,86 @@
+
 body{
     color:white;
+    width:80%;
+    
 }
 
 .navbar{
     border-radius:5px;
 }
 
-
-
+#quickAccess{
+    background-color:black;
+    
+}
 
 #content{
     height:450px;
     position:relative;    
-    transform:translate(0%,45%);
+    transform:translate(0%,35%);
+    
 }
 
+.mytextbox{
+    font-size:11px;
+}
+
+.mybox{
+    background-color:rgba(58, 151, 182, 0.74);
+    height:160px;
+}
+
+.title{
+    font-size:18px;
+}
+
+.banner{
+    background:linear-gradient(to right,rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0));
+    height:100px;
+    
+    
+}
+
+
+.bannerText1{
+    font-size:25px;
+    position:relative;
+    top:20px;
+    left:25px;
+}
+
+.bannerText2{
+    font-size:20px;
+    position:relative;
+    top:22px;
+    left:25px;
+}
+
+.slideshow-container{
+    margin:auto;
+}
+
+.mySlides{
+    display:none;
+}
+
+
+.fade{
+    -webkit-animation-name:fade;
+    -webkit-animation-duration:2s;
+    animation-name:fade;
+    animation-duration:2s;
+}
+
+
+.equal{
+    display:table;
+}
+
+.row{
+    display:table-row;
+}
+
+.row mybox{
+    display:table-cell;
+}
